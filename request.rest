@@ -1,0 +1,5 @@
+GET http://localhost:3001/picks/
+
+###
+
+DELETE http://localhost:3001/pick/delete/62f64425fa6720e3d370f24c
